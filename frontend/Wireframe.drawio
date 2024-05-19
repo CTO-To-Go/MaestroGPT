@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-05-19T21:27:17.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" version="24.3.1" etag="JmKIoJvYS-Gx1ekyVRxD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-19T21:37:36.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="iymZYOIwagsWFXRQXpwP" version="24.3.1" type="github">
   <diagram name="Page-1" id="dielMqokdLc7TkUOCkrt">
-    <mxGraphModel>
+    <mxGraphModel dx="1590" dy="583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
+          <mxGeometry x="-289" y="32" width="893" height="535" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-2" value="Page 1" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-3" value="http://localhost:#####" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-1">
+          <mxGeometry x="176" y="124" width="545" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.chat;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-1">
+          <mxGeometry x="218" y="151" width="465" height="281" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-8" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacing=15;spacingLeft=40;fontSize=14;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-1">
+          <mxGeometry x="179" y="474" width="542" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-9" value="Send a message" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;strokeColor=inherit;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-8">
+          <mxGeometry width="94.85" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-17" value="Choose File" style="fillColor=#FEFEFE;strokeColor=#AAAAAA;fontSize=14;gradientColor=#F0F0F0;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-8">
+          <mxGeometry x="440" width="102" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-19" value="Crew Library" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-1">
+          <mxGeometry x="8" y="124" width="162" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-20" value="Crew 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-19">
+          <mxGeometry y="30" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-21" value="Crew 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-19">
+          <mxGeometry y="60" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-22" value="Crew 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-19">
+          <mxGeometry y="90" width="162" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-23" value="Project Name" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-1">
+          <mxGeometry x="734" y="124" width="149" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-24" value="Saved Crew 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-23">
+          <mxGeometry y="30" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-25" value="Saved Crew 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-23">
+          <mxGeometry y="60" width="149" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4j6Fe2a4NrC-T8sIoyyp-26" value="Saved Crew 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="4j6Fe2a4NrC-T8sIoyyp-23">
+          <mxGeometry y="90" width="149" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
